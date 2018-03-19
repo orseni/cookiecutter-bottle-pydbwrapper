@@ -1,0 +1,4 @@
+bottle
+bottle-cerberus
+psycopg2
+pytest
