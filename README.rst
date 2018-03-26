@@ -7,10 +7,6 @@ Cookiecutter_ template for a Python + Bottle + pydbwrapper.
 * GitHub repo: https://github.com/orseni/cookiecutter-bottle-pydbwrapper/
 * Free software: BSD license
 
-Features
---------
-
-* Testing setup with ``unittest`` and ``python setup.py test`` or ``py.test``
 
 Quickstart
 ----------

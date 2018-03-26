@@ -1,4 +1,9 @@
 bottle
-bottle-cerberus
 psycopg2
 pytest
+bottle-cerberus
+pyjwt
+jinja2
+gunicorn
+meinheld
+git+http://github.com/rgercp/pydbwrapper.git#egg=pydbwrapper
